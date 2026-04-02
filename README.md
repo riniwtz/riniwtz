@@ -1,5 +1,3 @@
-<div align="center">
-
 ## 👨‍💻 Full-Stack Engineer
 
 Building scalable software, private systems, and AI-adjacent products with a focus on real-world utility, maintainability, and long-term thinking.
@@ -7,58 +5,28 @@ Building scalable software, private systems, and AI-adjacent products with a foc
 📚 Currently focused on academics, private builds, and long-term projects.  
 🤝 Open to meaningful collaborations.
 
-</div>
-
-<br>
-
-<table>
-<tr>
-<td valign="top" width="55%">
+---
 
 ## 👋 About Me
 
 I'm **Rin**, a Computer Science student at **De La Salle University** in Manila, Philippines, majoring in **Software Technology**.
 
-I build software with a strong focus on **systems, operations, and usability** — the kind of tools and products that make work easier, cleaner, and more scalable. My interests sit at the intersection of **full-stack engineering**, **automation**, and **applied AI**.
+I build software focused on **systems, operations, and usability** — especially tools that improve workflows, automation, and real-world execution.
 
-I care deeply about building things that are not only functional, but also **maintainable, scalable, and grounded in real use cases**.
-
-- 🧠 I think in systems, not just features.  
-- ⚙️ I build systems that scale.  
+- 🧠 I think in systems, not just features.
+- ⚙️ I build systems that scale.
 - 📈 I value balance, discipline, and long-term growth.
 
 ---
 
 ## 🚀 Current Focus
 
-- Building private applications centered around **operations, automation, and productivity**
+- Building private applications around **operations, automation, and productivity**
 - Strengthening my foundation in **full-stack engineering** and **system design**
-- Exploring **AI engineering** and staying closely aligned with fast-moving developments in technology
-- Growing as both a builder and collaborator through constant learning, iteration, and execution
+- Exploring **AI engineering** and applied AI workflows
+- Growing through continuous learning, iteration, and execution
 
 ---
-
-## 🧭 Engineering Philosophy
-
-I’m most interested in solving **real-world problems** — especially in areas like:
-
-- automation  
-- productivity  
-- operations  
-- developer workflow  
-- systems that reduce friction and improve execution  
-
-I approach engineering with a long-term mindset. That means thinking beyond “does it work?” and toward questions like:
-
-- Will this scale?  
-- Can this be maintained well?  
-- Does it simplify the system or make it harder?  
-- Does it create real value for the people using it?  
-
-I’m highly adaptable and genuinely enjoy learning new tools, technologies, and domains whenever the work demands it. I care just as much about **clarity, collaboration, and communication** as I do about technical depth.
-
-</td>
-<td valign="top" width="45%">
 
 ## 🛠️ Tech Stack
 
@@ -88,27 +56,29 @@ I’m highly adaptable and genuinely enjoy learning new tools, technologies, and
 
 ---
 
+## 🧭 Engineering Philosophy
+
+I care about building software that is **useful, maintainable, and scalable**.  
+I focus on real-world problems, clear systems, and long-term thinking over short-term complexity.
+
+---
+
 ## 💼 Experience
 
 ### iOS Development Intern
-Completed a 2-month iOS development internship prior to senior high school, where I gained early exposure to professional software development, collaboration, and product-oriented thinking.
-
-While it was an early experience, it helped shape the way I approach engineering today: with curiosity, discipline, and a strong bias toward building.
+Completed a 2-month iOS development internship prior to senior high school, where I gained early exposure to professional software development and product-oriented thinking.
 
 ---
 
 ## 🔒 What I’m Building
 
-Most of the systems and products I work on today are **private by design**.
+Most of the work I do today is **private by design**.
 
-My work is currently focused on building applications that support:
-
-- operational efficiency  
-- internal workflows  
-- automation  
-- scalable product foundations  
-
-I prefer to keep current projects private while I continue developing them with intention and long-term direction.
+I'm currently building systems focused on:
+- automation
+- internal workflows
+- operational efficiency
+- scalable product foundations
 
 ---
 
@@ -118,7 +88,3 @@ I prefer to keep current projects private while I continue developing them with 
 - LinkedIn: [linkedin.com/in/rintaroiwata](https://www.linkedin.com/in/rintaroiwata)
 - Resume: [rinidev.vercel.app/resume.pdf](https://rinidev.vercel.app/resume.pdf)
 - Email: [rintaro_iwata@dlsu.edu.ph](mailto:rintaro_iwata@dlsu.edu.ph)
-
-</td>
-</tr>
-</table>
