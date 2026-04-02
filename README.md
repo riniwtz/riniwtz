@@ -37,6 +37,7 @@ I build software focused on **systems, operations, and usability** — especiall
 ![Python](https://img.shields.io/badge/Python-1d4ed8?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-7f1d1d?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0f766e?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-b45309?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Full-Stack
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)
@@ -53,6 +54,15 @@ I build software focused on **systems, operations, and usability** — especiall
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-3f3f46?style=for-the-badge&logo=linux&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-292524?style=for-the-badge&logo=rust&logoColor=white)
+
+### Project Management
+![Linear](https://img.shields.io/badge/Linear-111827?style=for-the-badge&logo=linear&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white)
+
+### Code Editors
+![VS Code](https://img.shields.io/badge/VS_Code-1d4ed8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-7c3aed?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-0f172a?style=for-the-badge&logoColor=white)
 
 ---
 
