@@ -1,14 +1,9 @@
-# Rintaro G. Iwata
+## 👨‍💻 About Me
 
-**Full-Stack Engineer**  
-Building scalable software, private systems, and AI-adjacent products with a focus on real-world utility, maintainability, and long-term thinking.
+**Full-Stack Engineer** building scalable software, private systems, and AI-adjacent products with a focus on real-world utility, maintainability, and long-term thinking.
 
-Currently focused on academics, private builds, and long-term projects.  
-Open to meaningful collaborations.
-
----
-
-## About Me
+📚 Currently focused on academics, private builds, and long-term projects.  
+🤝 Open to meaningful collaborations.
 
 I'm **Rin**, a Computer Science student at **De La Salle University** in Manila, Philippines, majoring in **Software Technology**.
 
@@ -16,13 +11,13 @@ I build software with a strong focus on **systems, operations, and usability** �
 
 I care deeply about building things that are not only functional, but also **maintainable, scalable, and grounded in real use cases**.
 
-- I think in systems, not just features.
-- I build systems that scale.
-- I value balance, discipline, and long-term growth.
+- 🧠 I think in systems, not just features.
+- ⚙️ I build systems that scale.
+- 📈 I value balance, discipline, and long-term growth.
 
 ---
 
-## Current Focus
+## 🚀 Current Focus
 
 - Building private applications centered around **operations, automation, and productivity**
 - Strengthening my foundation in **full-stack engineering** and **system design**
@@ -31,35 +26,35 @@ I care deeply about building things that are not only functional, but also **mai
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-1e3a8a?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-4c1d95?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1d4ed8?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7f1d1d?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0f766e?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Full-Stack / Frontend / Backend
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-111111?style=for-the-badge&logo=svelte&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-111111?style=for-the-badge&logo=zod&logoColor=white)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-9a3412?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-164e63?style=for-the-badge&logo=tailwind-css&logoColor=67e8f9)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1f2937?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-312e81?style=for-the-badge&logoColor=white)
 
 ### Data / Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e40af?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-14532d?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7c2d12?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-3f3f46?style=for-the-badge&logo=linux&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-292524?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
-## Engineering Philosophy
+## 🧭 Engineering Philosophy
 
 I’m most interested in solving **real-world problems** — especially in areas like:
 
@@ -80,7 +75,7 @@ I’m highly adaptable and genuinely enjoy learning new tools, technologies, and
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### iOS Development Intern
 Completed a 2-month iOS development internship prior to senior high school, where I gained early exposure to professional software development, collaboration, and product-oriented thinking.
@@ -89,7 +84,7 @@ While it was an early experience, it helped shape the way I approach engineering
 
 ---
 
-## What I’m Building
+## 🔒 What I’m Building
 
 Most of the systems and products I work on today are **private by design**.
 
@@ -103,7 +98,7 @@ I prefer to keep current projects private while I continue developing them with 
 
 ---
 
-## Beyond the Code
+## 🌱 Beyond the Code
 
 Coding has been part of my life since I was young, and it remains one of the most important things in my life. What keeps me motivated is not just writing software, but the process of continuously improving — technically, professionally, and personally.
 
@@ -115,11 +110,9 @@ I care about:
 
 ---
 
-## Connect
+## 📫 Connect
 
 - GitHub: [github.com/riniwtz](https://github.com/riniwtz)
 - LinkedIn: [linkedin.com/in/rintaroiwata](https://www.linkedin.com/in/rintaroiwata)
 - Resume: [rinidev.vercel.app/resume.pdf](https://rinidev.vercel.app/resume.pdf)
 - Email: [rintaro_iwata@dlsu.edu.ph](mailto:rintaro_iwata@dlsu.edu.ph)
-
-**Open to meaningful collaborations.**
