@@ -73,13 +73,6 @@ I focus on real-world problems, clear systems, and long-term thinking over short
 
 ---
 
-## 💼 Experience
-
-### iOS Development Intern
-Completed a 2-month iOS development internship prior to senior high school, where I gained early exposure to professional software development and product-oriented thinking.
-
----
-
 ## 🔒 What I’m Building
 
 Most of the work I do today is **private by design**.
