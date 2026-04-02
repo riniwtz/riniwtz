@@ -1,9 +1,21 @@
-## 👨‍💻 About Me
+<div align="center">
 
-**Full-Stack Engineer** building scalable software, private systems, and AI-adjacent products with a focus on real-world utility, maintainability, and long-term thinking.
+## 👨‍💻 Full-Stack Engineer
+
+Building scalable software, private systems, and AI-adjacent products with a focus on real-world utility, maintainability, and long-term thinking.
 
 📚 Currently focused on academics, private builds, and long-term projects.  
 🤝 Open to meaningful collaborations.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+## 👋 About Me
 
 I'm **Rin**, a Computer Science student at **De La Salle University** in Manila, Philippines, majoring in **Software Technology**.
 
@@ -11,8 +23,8 @@ I build software with a strong focus on **systems, operations, and usability** �
 
 I care deeply about building things that are not only functional, but also **maintainable, scalable, and grounded in real use cases**.
 
-- 🧠 I think in systems, not just features.
-- ⚙️ I build systems that scale.
+- 🧠 I think in systems, not just features.  
+- ⚙️ I build systems that scale.  
 - 📈 I value balance, discipline, and long-term growth.
 
 ---
@@ -26,6 +38,28 @@ I care deeply about building things that are not only functional, but also **mai
 
 ---
 
+## 🧭 Engineering Philosophy
+
+I’m most interested in solving **real-world problems** — especially in areas like:
+
+- automation  
+- productivity  
+- operations  
+- developer workflow  
+- systems that reduce friction and improve execution  
+
+I approach engineering with a long-term mindset. That means thinking beyond “does it work?” and toward questions like:
+
+- Will this scale?  
+- Can this be maintained well?  
+- Does it simplify the system or make it harder?  
+- Does it create real value for the people using it?  
+
+I’m highly adaptable and genuinely enjoy learning new tools, technologies, and domains whenever the work demands it. I care just as much about **clarity, collaboration, and communication** as I do about technical depth.
+
+</td>
+<td valign="top" width="45%">
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -36,7 +70,7 @@ I care deeply about building things that are not only functional, but also **mai
 ![Java](https://img.shields.io/badge/Java-7f1d1d?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0f766e?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Full-Stack / Frontend / Backend
+### Full-Stack
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-9a3412?style=for-the-badge&logo=svelte&logoColor=white)
@@ -54,27 +88,6 @@ I care deeply about building things that are not only functional, but also **mai
 
 ---
 
-## 🧭 Engineering Philosophy
-
-I’m most interested in solving **real-world problems** — especially in areas like:
-
-- automation
-- productivity
-- operations
-- developer workflow
-- systems that reduce friction and improve execution
-
-I approach engineering with a long-term mindset. That means thinking beyond “does it work?” and toward questions like:
-
-- Will this scale?
-- Can this be maintained well?
-- Does it simplify the system or make it harder?
-- Does it create real value for the people using it?
-
-I’m highly adaptable and genuinely enjoy learning new tools, technologies, and domains whenever the work demands it. I care just as much about **clarity, collaboration, and communication** as I do about technical depth.
-
----
-
 ## 💼 Experience
 
 ### iOS Development Intern
@@ -89,24 +102,13 @@ While it was an early experience, it helped shape the way I approach engineering
 Most of the systems and products I work on today are **private by design**.
 
 My work is currently focused on building applications that support:
-- operational efficiency
-- internal workflows
-- automation
-- scalable product foundations
+
+- operational efficiency  
+- internal workflows  
+- automation  
+- scalable product foundations  
 
 I prefer to keep current projects private while I continue developing them with intention and long-term direction.
-
----
-
-## 🌱 Beyond the Code
-
-Coding has been part of my life since I was young, and it remains one of the most important things in my life. What keeps me motivated is not just writing software, but the process of continuously improving — technically, professionally, and personally.
-
-I care about:
-- discipline without burnout
-- ambition with balance
-- learning with purpose
-- growth that compounds over time
 
 ---
 
@@ -116,3 +118,7 @@ I care about:
 - LinkedIn: [linkedin.com/in/rintaroiwata](https://www.linkedin.com/in/rintaroiwata)
 - Resume: [rinidev.vercel.app/resume.pdf](https://rinidev.vercel.app/resume.pdf)
 - Email: [rintaro_iwata@dlsu.edu.ph](mailto:rintaro_iwata@dlsu.edu.ph)
+
+</td>
+</tr>
+</table>
