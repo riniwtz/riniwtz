@@ -36,7 +36,7 @@ I build software focused on **systems, operations, and usability** — especiall
 ![C#](https://img.shields.io/badge/C%23-4c1d95?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1d4ed8?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-7f1d1d?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0f766e?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-b45309?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Full-Stack
