@@ -66,13 +66,6 @@ I build software focused on **systems, operations, and usability** — especiall
 
 ---
 
-## 🧭 Engineering Philosophy
-
-I care about building software that is **useful, maintainable, and scalable**.  
-I focus on real-world problems, clear systems, and long-term thinking over short-term complexity.
-
----
-
 ## 🔒 What I’m Building
 
 Most of the work I do today is **private by design**.
