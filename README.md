@@ -1,4 +1,4 @@
-## 👨‍💻 Full-Stack Engineer
+## 👨‍💻 Full-Stack AI Software Engineer
 
 Building scalable software, private systems, and AI-adjacent products with a focus on real-world utility, maintainability, and long-term thinking.
 
